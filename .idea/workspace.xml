@@ -1,0 +1,1020 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="64e426fb-85bb-4a8f-9ea2-094cfa09eb04" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local/resources/views/backend/color.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/local/resources/views/backend/color.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local/resources/views/backend/orderlist.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/local/resources/views/backend/orderlist.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local/resources/views/backend/size.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/local/resources/views/backend/size.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local/resources/views/frontend/master.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/local/resources/views/frontend/master.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local/resources/views/frontend/profile.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/local/resources/views/frontend/profile.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/local/routes/web.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/local/composer.json</pharConfigPath>
+    <executablePath>composer</executablePath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="master.blade.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/local/resources/views/frontend/master.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="313">
+              <caret line="391" lean-forward="true" selection-start-line="391" selection-end-line="391" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="size.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/local/resources/views/backend/size.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="66" selection-start-line="7" selection-start-column="66" selection-end-line="7" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="color.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/local/resources/views/backend/color.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="58" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="orderlist.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/local/resources/views/backend/orderlist.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shopping_cart.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/local/resources/views/frontend/shopping_cart.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1904">
+              <caret line="112" column="52" selection-start-line="112" selection-start-column="52" selection-end-line="112" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FrontendController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/local/app/Http/Controllers/FrontendController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="39" column="46" selection-start-line="39" selection-start-column="46" selection-end-line="39" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="profile.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/local/resources/views/frontend/profile.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="629">
+              <caret line="37" column="106" selection-start-line="37" selection-start-column="106" selection-end-line="37" selection-end-column="106" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CartController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/local/app/Http/Controllers/CartController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2278">
+              <caret line="148" column="51" selection-start-line="148" selection-start-column="51" selection-end-line="148" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OrderController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/local/app/Http/Controllers/OrderController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="31" column="65" selection-start-line="31" selection-start-column="65" selection-end-line="31" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ex</find>
+      <find>toi</find>
+      <find>blank</find>
+      <find>bg</find>
+      <find>token</find>
+      <find>getcode</find>
+      <find>gửi</find>
+      <find>yêu</find>
+      <find>activation_link</find>
+      <find>sản phẩm y</find>
+      <find>item</find>
+      <find>owl-item</find>
+      <find>loop</find>
+      <find>image[]</find>
+      <find>imageOld</find>
+      <find>$id</find>
+      <find>input</find>
+      <find>form</find>
+      <find>sea</find>
+      <find>ccc</find>
+      <find>cậ</find>
+      <find>f1f4</find>
+      <find>f1f4f7</find>
+      <find>his</find>
+      <find>note</find>
+      <find>session</find>
+      <find>con</find>
+      <find>coupon_c</find>
+      <find>50px</find>
+      <find>profile</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/local/app/Http/Requests/AddAdminRequest.php" />
+        <option value="$PROJECT_DIR$/local/database/seeds/DatabaseSeeder.php" />
+        <option value="$PROJECT_DIR$/local/database/seeds/NewDistrictTableSeeder.php" />
+        <option value="$PROJECT_DIR$/local/resources/views/backend/master.blade.php" />
+        <option value="$PROJECT_DIR$/local/app/Http/Requests/AddCouponRequest.php" />
+        <option value="$PROJECT_DIR$/local/resources/views/frontend/product_type.blade.php" />
+        <option value="$PROJECT_DIR$/local/resources/views/frontend/shopping_cart.blade.php" />
+        <option value="$PROJECT_DIR$/local/resources/lang/en/auth.php" />
+        <option value="$PROJECT_DIR$/local/resources/views/auth/login.blade.php" />
+        <option value="$PROJECT_DIR$/local/resources/views/backend/editorder.blade.php" />
+        <option value="$PROJECT_DIR$/local/resources/views/backend/index.blade.php" />
+        <option value="$PROJECT_DIR$/local/resources/views/errors/note.blade.php" />
+        <option value="$PROJECT_DIR$/local/app/helpers.php" />
+        <option value="$PROJECT_DIR$/local/resources/views/errors/message.blade.php" />
+        <option value="$PROJECT_DIR$/local/app/Http/Controllers/WishlistController.php" />
+        <option value="$PROJECT_DIR$/local/resources/views/backend/addadmin.blade.php" />
+        <option value="$PROJECT_DIR$/local/resources/views/backend/editadmin.blade.php" />
+        <option value="$PROJECT_DIR$/local/app/Http/Controllers/AdminController.php" />
+        <option value="$PROJECT_DIR$/local/app/Http/Controllers/AdminCouponController.php" />
+        <option value="$PROJECT_DIR$/local/resources/views/backend/coupon.blade.php" />
+        <option value="$PROJECT_DIR$/local/app/Http/Controllers/CategoryController.php" />
+        <option value="$PROJECT_DIR$/local/resources/views/backend/category.blade.php" />
+        <option value="$PROJECT_DIR$/local/app/Http/Controllers/SizeController.php" />
+        <option value="$PROJECT_DIR$/local/app/Http/Controllers/ColorController.php" />
+        <option value="$PROJECT_DIR$/local/resources/views/frontend/checkout.blade.php" />
+        <option value="$PROJECT_DIR$/local/app/Http/Controllers/OrderController.php" />
+        <option value="$PROJECT_DIR$/local/resources/views/backend/product.blade.php" />
+        <option value="$PROJECT_DIR$/local/database/migrations/2018_06_01_133549_update_history_table.php" />
+        <option value="$PROJECT_DIR$/local/resources/views/backend/thongkeorder.blade.php" />
+        <option value="$PROJECT_DIR$/local/app/Http/Controllers/ThongKeController.php" />
+        <option value="$PROJECT_DIR$/local/app/Mail/OrderPlaced.php" />
+        <option value="$PROJECT_DIR$/local/resources/views/backend/adminlist.blade.php" />
+        <option value="$PROJECT_DIR$/local/resources/views/backend/userlist.blade.php" />
+        <option value="$PROJECT_DIR$/local/resources/views/frontend/wishlist.blade.php" />
+        <option value="$PROJECT_DIR$/local/resources/views/frontend/mailsuccess.blade.php" />
+        <option value="$PROJECT_DIR$/local/app/Http/Controllers/CouponController.php" />
+        <option value="$PROJECT_DIR$/local/app/Http/Controllers/CartController.php" />
+        <option value="$PROJECT_DIR$/local/resources/views/frontend/ordersearch.blade.php" />
+        <option value="$PROJECT_DIR$/local/resources/views/frontend/product.blade.php" />
+        <option value="$PROJECT_DIR$/local/resources/views/backend/addproduct.blade.php" />
+        <option value="$PROJECT_DIR$/local/resources/views/backend/editproduct.blade.php" />
+        <option value="$PROJECT_DIR$/local/app/Http/Requests/AddProductRequest.php" />
+        <option value="$PROJECT_DIR$/local/app/Http/Requests/EditProductRequest.php" />
+        <option value="$PROJECT_DIR$/local/app/Http/Controllers/ProductController.php" />
+        <option value="$PROJECT_DIR$/local/resources/views/frontend/profile.blade.php" />
+        <option value="$PROJECT_DIR$/local/routes/web.php" />
+        <option value="$PROJECT_DIR$/local/app/Http/Controllers/FrontendController.php" />
+        <option value="$PROJECT_DIR$/local/resources/views/backend/size.blade.php" />
+        <option value="$PROJECT_DIR$/local/resources/views/backend/color.blade.php" />
+        <option value="$PROJECT_DIR$/local/resources/views/backend/orderlist.blade.php" />
+        <option value="$PROJECT_DIR$/local/resources/views/frontend/master.blade.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/local/vendor/mtdowling/cron-expression" />
+      <path value="$PROJECT_DIR$/local/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/local/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/local/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/local/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/local/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/local/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/local/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/local/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/local/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/local/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/local/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/local/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/local/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/local/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/local/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/local/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/local/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/local/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/local/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/local/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/local/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/local/vendor/composer" />
+      <path value="$PROJECT_DIR$/local/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/local/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/local/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/local/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/local/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/local/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/local/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/local/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/local/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/local/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/local/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/local/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/local/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/local/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/local/vendor/symfony/thanks" />
+      <path value="$PROJECT_DIR$/local/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/local/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/local/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/local/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/local/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/local/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/local/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/local/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/local/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/local/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/local/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/local/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/local/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/local/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/local/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/local/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/local/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/local/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/local/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/local/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/local/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/local/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/local/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/local/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/local/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/local/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/local/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/local/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/local/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/local/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/local/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/local/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/local/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/local/vendor/gloudemans/shoppingcart" />
+      <path value="$PROJECT_DIR$/local/vendor/laravelcollective/html" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="496" />
+    <option name="y" value="54" />
+    <option name="width" value="775" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="suhouse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="suhouse" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="suhouse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="suhouse" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="suhouse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="suhouse" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="suhouse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="suhouse" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Classes" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="suhouse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="suhouse" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Exceptions" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="suhouse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="suhouse" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Http" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="suhouse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="suhouse" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Http" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="suhouse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="suhouse" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Http" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Auth" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="suhouse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="suhouse" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Http" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="AuthAdmin" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="suhouse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="suhouse" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Http" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Middleware" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="suhouse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="suhouse" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Http" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Requests" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="suhouse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="suhouse" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Mail" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="suhouse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="suhouse" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Notifications" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="suhouse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="suhouse" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Providers" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="suhouse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="suhouse" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="config" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="suhouse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="suhouse" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="suhouse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="suhouse" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="lang" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="suhouse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="suhouse" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="lang" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="en" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="suhouse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="suhouse" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="suhouse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="suhouse" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="auth" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="suhouse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="suhouse" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="authAdmin" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="suhouse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="suhouse" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="authAdmin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="passwords" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="suhouse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="suhouse" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="backend" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="suhouse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="suhouse" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="email" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="suhouse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="suhouse" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="errors" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="suhouse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="suhouse" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="suhouse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="suhouse" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="local" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="routes" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="suhouse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="suhouse" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="suhouse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="suhouse" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="layout" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="suhouse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="suhouse" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="layout" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/xampp/htdocs/suhouse/local/resources/views/home.blade.php" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../juno" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\suhouse\public\layout\frontend\assets\dest\js" />
+      <recent name="C:\xampp\htdocs\suhouse\public\layout\frontend\assets\dest\css" />
+      <recent name="C:\xampp\htdocs\suhouse\public\layout\frontend\assets\dest\images" />
+      <recent name="C:\xampp\htdocs\suhouse\local\resources\views\frontend" />
+      <recent name="C:\xampp\htdocs\suhouse\local\resources\views" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\suhouse\local\resources\views\frontend" />
+      <recent name="C:\xampp\htdocs\suhouse\local\resources\views\errors" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64e426fb-85bb-4a8f-9ea2-094cfa09eb04" name="Default" comment="" />
+      <created>1526051395602</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526051395602</updated>
+      <workItem from="1526051400221" duration="18892000" />
+      <workItem from="1526102194085" duration="28455000" />
+      <workItem from="1526194850038" duration="21429000" />
+      <workItem from="1526236651754" duration="34000" />
+      <workItem from="1526267937139" duration="18727000" />
+      <workItem from="1526307995012" duration="15129000" />
+      <workItem from="1526357805820" duration="4771000" />
+      <workItem from="1526367512581" duration="33257000" />
+      <workItem from="1526439599849" duration="33980000" />
+      <workItem from="1526547375546" duration="26935000" />
+      <workItem from="1526634685983" duration="5552000" />
+      <workItem from="1526655159125" duration="2496000" />
+      <workItem from="1526657976860" duration="10448000" />
+      <workItem from="1526705388608" duration="596000" />
+      <workItem from="1526740714223" duration="2509000" />
+      <workItem from="1526746835327" duration="10690000" />
+      <workItem from="1526798174901" duration="25075000" />
+      <workItem from="1526840250093" duration="1921000" />
+      <workItem from="1526876273518" duration="595000" />
+      <workItem from="1526959651802" duration="10947000" />
+      <workItem from="1527057525758" duration="5042000" />
+      <workItem from="1527137874854" duration="2767000" />
+      <workItem from="1527261165241" duration="1174000" />
+      <workItem from="1527346825348" duration="1198000" />
+      <workItem from="1527397416364" duration="10554000" />
+      <workItem from="1527420714811" duration="12242000" />
+      <workItem from="1527493404871" duration="8990000" />
+      <workItem from="1527520086396" duration="2422000" />
+      <workItem from="1527566684099" duration="15450000" />
+      <workItem from="1527592201749" duration="64000" />
+      <workItem from="1527605512361" duration="10942000" />
+      <workItem from="1527658109957" duration="22897000" />
+      <workItem from="1527705651818" duration="2937000" />
+      <workItem from="1527750467044" duration="13612000" />
+      <workItem from="1527775666396" duration="16003000" />
+      <workItem from="1527823803723" duration="7298000" />
+      <workItem from="1527862354850" duration="10268000" />
+      <workItem from="1527878603738" duration="2828000" />
+      <workItem from="1527911475493" duration="9986000" />
+      <workItem from="1527953502005" duration="1335000" />
+      <workItem from="1527995608703" duration="11022000" />
+      <workItem from="1528083348445" duration="2088000" />
+      <workItem from="1528198126263" duration="12167000" />
+      <workItem from="1528297616176" duration="2697000" />
+      <workItem from="1528349958482" duration="3001000" />
+      <workItem from="1528383061816" duration="4709000" />
+      <workItem from="1528390242132" duration="938000" />
+      <workItem from="1528428254998" duration="3364000" />
+      <workItem from="1528435024525" duration="1929000" />
+      <workItem from="1528441204325" duration="5561000" />
+      <workItem from="1528743730620" duration="227000" />
+      <workItem from="1529296800217" duration="343000" />
+      <workItem from="1529381072808" duration="604000" />
+      <workItem from="1529898629867" duration="607000" />
+      <workItem from="1529938877090" duration="735000" />
+      <workItem from="1529991598982" duration="1325000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="481764000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33894584" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32913387" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="10" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/local/resources/views/backend/addadmin.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="75" selection-start-line="47" selection-start-column="75" selection-end-line="47" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/app/Http/Controllers/AdminController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="91" column="33" selection-start-line="91" selection-start-column="33" selection-end-line="91" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/resources/views/backend/editadmin.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="48" column="68" selection-start-line="48" selection-start-column="68" selection-end-line="48" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/resources/views/backend/coupon.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="50" column="64" lean-forward="true" selection-start-line="50" selection-start-column="64" selection-end-line="50" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/app/Http/Controllers/AdminCouponController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="34" column="29" lean-forward="true" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/resources/views/backend/category.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/app/Http/Controllers/WishlistController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/app/Http/Controllers/SizeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="43" column="51" selection-start-line="43" selection-start-column="51" selection-end-line="43" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/app/Http/Controllers/ColorController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="39" column="93" lean-forward="true" selection-start-line="39" selection-start-column="93" selection-end-line="39" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/database/migrations/2018_06_01_133549_update_history_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="27" column="6" lean-forward="true" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/database/migrations/2018_05_17_160319_histories.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="24" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/app/helpers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/resources/views/backend/thongkeorder.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="99" column="43" selection-start-line="99" selection-start-column="43" selection-end-line="99" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/resources/views/backend/thongkedoanhthu.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2346" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="641" column="13" selection-start-line="641" selection-start-column="13" selection-end-line="641" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/resources/views/frontend/product_type.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/resources/views/backend/adminlist.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="45" selection-start-line="1" selection-start-column="45" selection-end-line="1" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/resources/views/backend/userlist.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="61" selection-start-line="1" selection-start-column="61" selection-end-line="1" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/resources/views/frontend/wishlist.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="125" selection-start-line="32" selection-start-column="125" selection-end-line="32" selection-end-column="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/app/Http/Controllers/ThongKeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="39" column="33" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/app/Mail/OrderPlaced.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="34" column="2" selection-start-line="34" selection-start-column="2" selection-end-line="35" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/resources/views/frontend/checkout.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14">
+          <caret line="184" column="61" selection-start-line="184" selection-start-column="61" selection-end-line="184" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/app/Http/Controllers/CouponController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="18" column="72" selection-start-line="18" selection-start-column="72" selection-end-line="18" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/resources/views/frontend/history.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="25" column="82" selection-start-line="25" selection-start-column="71" selection-end-line="25" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/resources/views/frontend/mailsuccess.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1836">
+          <caret line="114" column="7" selection-start-line="114" selection-start-column="7" selection-end-line="114" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/resources/views/frontend/ordersearch.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/resources/views/backend/product.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="91" column="27" lean-forward="true" selection-start-line="91" selection-start-column="27" selection-end-line="91" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/app/Http/Requests/EditProductRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/resources/views/backend/addproduct.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="96" column="115" selection-start-line="96" selection-start-column="115" selection-end-line="96" selection-end-column="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/resources/views/backend/editproduct.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="140" column="124" selection-start-line="140" selection-start-column="124" selection-end-line="140" selection-end-column="124" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/app/Http/Controllers/ProductController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/app/Http/Requests/AddProductRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" column="40" selection-start-line="43" selection-start-column="40" selection-end-line="43" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/resources/views/frontend/product.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="531" column="48" selection-start-line="531" selection-start-column="48" selection-end-line="531" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/resources/views/authAdmin/login.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-204" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/resources/views/auth/login.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/app/Http/Controllers/Auth/RegisterController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/app/UserActivation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="669">
+          <caret line="50" column="20" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/resources/views/email/user-activation.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/app/Classes/ActivationService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/app/Http/Controllers/CategoryController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="23" column="67" selection-start-line="23" selection-start-column="67" selection-end-line="23" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="24" column="69" selection-start-line="24" selection-start-column="69" selection-end-line="24" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/app/Http/Controllers/FrontendController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="39" column="46" selection-start-line="39" selection-start-column="46" selection-end-line="39" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/app/Http/Controllers/CartController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2278">
+          <caret line="148" column="51" selection-start-line="148" selection-start-column="51" selection-end-line="148" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/app/Http/Controllers/OrderController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="31" column="65" selection-start-line="31" selection-start-column="65" selection-end-line="31" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/resources/views/frontend/profile.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="106" selection-start-line="37" selection-start-column="106" selection-end-line="37" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/resources/views/frontend/shopping_cart.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1904">
+          <caret line="112" column="52" selection-start-line="112" selection-start-column="52" selection-end-line="112" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/resources/views/backend/size.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="66" selection-start-line="7" selection-start-column="66" selection-end-line="7" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/resources/views/backend/color.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="58" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/resources/views/backend/orderlist.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/layout/frontend/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8092" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local/resources/views/frontend/master.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="391" lean-forward="true" selection-start-line="391" selection-end-line="391" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
